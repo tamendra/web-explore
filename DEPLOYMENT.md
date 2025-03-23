@@ -11,7 +11,7 @@ Follow these steps to deploy your React app to GitHub Pages:
 2. **Configure `package.json`**  
    - Set the `homepage` field to:
      ```
-     https://<username>.github.io/<repository-name>
+     https://github.com/tamendra/portfolio
      ```
    - Add the following scripts if not already present:
      ```json
@@ -34,4 +34,4 @@ Follow these steps to deploy your React app to GitHub Pages:
    ```
 
 5. **Verify Deployment**  
-   Visit `https://tamendra.github.io/web-explore` to ensure your app is live and functioning correctly.
+   Visit `https://tamendra.github.io/portfolio` to ensure your app is live and functioning correctly.
